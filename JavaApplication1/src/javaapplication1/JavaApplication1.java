@@ -3,11 +3,10 @@ package javaapplication1;
 import java.util.Scanner;
 import java.time.*;
 public class JavaApplication1 {
+
     
-eee
-    aaa asda
-    
-int x = 5;  
+int x = 3;
+
 
 static void YO() {
     System.out.println("Yo bitch!");
